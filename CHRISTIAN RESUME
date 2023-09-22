@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta  charset="UTF-8">
+    <meta  http-equiv="X-UA-compatable"content="IE-edge">
+    <meta name="viewport" content="width-device-width,initial-scale-1.0">
+    <title>RESUME</title>
+</head>
+<body style="background:rgb(240, 235, 235)">
+    
+    <!-- header -->
+    <header>
+        <table>
+            <tr>
+                <td>
+                    <img src="christian.png"alt="" width="127px" height="127px">
+                </td>
+                <td>
+                    <strong>CHRISTIAN PADILLA TORRE</strong>
+                </td>
+            </tr>
+        </table>
+    </header>
+    <br>
+    <!--Personal Details-->
+    <section>
+        <h2>Personal Details</h2>
+        <hr>
+        <table border="1px">
+            <tr>
+                <td>
+                    <h3>Name</h3>
+                </td>
+                <td>
+                    <p>CHRISTIAN P. TORRE</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Email Address</h3>
+                </td>
+            <td>
+                <p> christiantorre21@gmail.com</p>
+            </td>
+            <tr>
+                <td>
+                    <h3>Address</h3>
+                </td>
+                <td>
+                    <p>So.tuyuman brgy caradio-an himamaylan City,Neg. Occ.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Sex</h3>
+                </td>
+                <td>
+                    <p>Male</p>
+                </td>
+            </tr>
+                <td>
+                    <h3>Age</h3>
+                </td>
+                <td>
+                    <p>23</p>
+                </td>
+            </tr>
+         </table>
+        </section>
+        <br>
+        <!--objective-->
+        <section>
+            <h2>objective</h2>
+            <hr>
+            <p>Seeking a challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings.</p>
+        </section>
+        <br>    
+        <!--Educational Background-->
+        <section>
+            <h2>Educational Background</h2>
+        <hr>
+        <table border="1px">
+            <tr>
+                <td>
+                    <strong>Vocational</strong>
+                </td>
+                <td>
+                    <strong>Information in Communication Technology (ICT) </strong>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Secondary</strong>
+                </td>
+                <td>
+                    <strong>Himamaylan National High School</strong>
+                <td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>Primary</strong>
+                </td>
+                <td>
+                    <strong>Dona Julita M. Gatuslao Memorial School</strong>
+                </td>
+
+            </td>
+                      
+        </table>
+    </section>
+    <br>
+    <!--Working Experience-->
+    <section>
+        <h2>Working Experience</h2>
+        <hr>
+        <table border="1px">
+            <tr>
+                <td>
+                    <strong>NGC CONSTRUCTION COMPANY</strong>
+                </td>
+                <td>
+                    <p>construction worker.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <strong>ROSALI STORE</strong>
+                </td>
+                <td>
+                    <p>sales clerk</p>
+                </td>
+        </table>
+    </section>
+    <br>
+    <!--Character References-->
+    <section>
+        <h2>Character References</h2>
+    <hr>
+    <table border="1px">
+        <tr>
+            <td>
+                <strong>Restaurant Manager</strong>
+            </td>
+            <td>
+                <p>James Reid</p>
+              </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Manager</strong>
+            </td>
+            <td>
+                <p>James Reid</p>
+            </td>
+        </tr>
+        
+       
